@@ -27,3 +27,39 @@ Narrow-Band Amber (NBA) LED street light bulb is a new LED innovation. It emits 
 ### What is Smart Street Light?
 A smart streetlight is a public lighting fixture that incorporates technology, such as cameras, light-sensing photocells and other sensors, to introduce real-time monitoring functionalities. Also referred to as adaptive lighting or intelligent street lighting, this type of lighting system is recognized as a significant step in the development of smart cities. In addition to enabling cities to provide the proper amount of street light for local conditions, installing intelligent lighting will help improve citizen satisfaction regarding security and safety, while bringing municipalities significant savings in power consumption and lighting system maintenance.
 
+### High Level Requirements
+* It Shall have Arduino Uno
+* It Shall have Ultrasonic Sensor(HC-SR04)
+* It Shall have LDR
+* It Shall have Resistor 
+* It Shall have LED
+
+### Low Level Requirements 
+* Arduino Board Not Recognized 
+* Invalid Device Signature Error
+* Serial Port Already in use 
+* Limited Detection Range
+* Range Limited 
+* Loose Connection 
+* Incorrect Dimming Set-Up
+
+### Swot Analysis 
+
+![image](https://user-images.githubusercontent.com/98871955/157030357-d02ca636-2605-48b0-a397-706f18da634c.png)
+
+
+### Features of Smart Street Lights 
+•	Dynamic lighting controls based on movement detection.
+•	Environmental and weather monitoring.
+•	Extended cellular and wireless communications.
+•	Automatic emergency response in the event of a car crash or crime.
+
+### Benefits of Smart Street Lights
+•	Reduced carbon emissions and light pollution
+•	Lowered repair and maintenance costs with the monitoring software.
+•	Reduced energy cost and usage with flexible dimming controls.
+•	Improved architectural planning based on real traffic patterns and insights.
+
+
+
+
